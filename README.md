@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Pareek</h1>
-<h3 align="center">A passionate full stack developer and data enthusiast from India .</h3>
+<h3 align="center">A passionate full stack  software developer  from India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivzz-creator&label=Profile%20views&color=0e75b6&style=flat" alt="shivzz-creator" /> </p>
 
