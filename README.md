@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Pareek</h1>
-<h3 align="center">
+<h2 align="center"><b>
 AI Engineer @ IBM WatsonX · ex-AI Software Engineer @ Samsung Research · Generative AI · Backend Development · Cloud & LLM Systems
+  </b>
 </h3>
 
 <p align="center">
@@ -45,9 +46,6 @@ Outside work:
 🔗 **Portfolio Website:**  
 https://shivzz-creator.github.io/cv/index.html
 
-📄 **Resume:**  
-https://shivzz-creator.github.io/cv/shivanshPareekResumeUpdated_DEV.pdf
-
 📚 **Certifications:**  
 https://shivzz-creator.github.io/cv/cert.html
 
@@ -55,7 +53,7 @@ https://shivzz-creator.github.io/cv/cert.html
 https://shivzz-creator.github.io/cv/project.html
 
 ▶️ **YouTube Channel:**  
-https://www.youtube.com/@shivanshpareek
+https://www.youtube.com/@shivanshpareek](https://www.youtube.com/channel/UCvdTLnvmhEj7v_XHgG3oR2Q
 
 ---
 
