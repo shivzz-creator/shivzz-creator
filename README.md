@@ -66,7 +66,7 @@ https://www.youtube.com/@shivanshpareek](https://www.youtube.com/channel/UCvdTLn
 <a href="https://github.com/shivzz-creator" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/@shivanshpareek" target="_blank">
+<a href="https://www.youtube.com/channel/UCvdTLnvmhEj7v_XHgG3oR2Q" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
