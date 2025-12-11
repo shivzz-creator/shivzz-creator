@@ -53,20 +53,20 @@ https://shivzz-creator.github.io/cv/cert.html
 https://shivzz-creator.github.io/cv/project.html
 
 ▶️ **YouTube Channel:**  
-https://www.youtube.com/@shivanshpareek](https://www.youtube.com/channel/UCvdTLnvmhEj7v_XHgG3oR2Q
+https://www.youtube.com/@thecodecrunchacademy
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shivanshpareek" target="_blank">
+<a href="https://www.linkedin.com/in/shivansh-pareek-6025711b0/" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://github.com/shivzz-creator" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40" />
 </a>
-<a href="https://www.youtube.com/channel/UCvdTLnvmhEj7v_XHgG3oR2Q" target="_blank">
+<a href="https://www.youtube.com/@thecodecrunchacademy" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
 </a>
 </p>
